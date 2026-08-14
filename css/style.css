@@ -127,6 +127,13 @@ button{ font-family:inherit; cursor:pointer; }
   line-height:1.18;
   color:#fff;
 }
+.hero-brand{
+  display:block;
+  margin-bottom:.25em;
+  color:var(--orange);
+  font-size:.48em;
+  letter-spacing:0;
+}
 .hero h1 em{ font-style:normal; color: var(--orange); }
 .hero p.lead{
   margin-top:20px; font-size:1.08rem; color: rgba(246,242,233,0.82);

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://horangfence.wngkgus.workers.dev/sitemap.xml
